@@ -1,2 +1,2 @@
 # blog-posts
-自己写的MARKDOWN 文章，blog：http://blog.csdn.net/wzhg0508
+鑷繁鍐欑殑MARKDOWN 鏂囩珷, 鎴戠殑[CSDN blog](http://blog.csdn.net/wzhg0508)
